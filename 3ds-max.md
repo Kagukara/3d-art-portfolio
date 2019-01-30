@@ -29,7 +29,7 @@ images:
     <a href="..{{ site.baseurl }}/3ds-max/roof_top_scene"><img src="..{{ site.baseurl }}/uploads/thumbnails/roof_top_scene_folder.jpg" class="hover-shadow" /></a>
   </div>
   <div class="column">
-    <a href="..{{ site.baseurl }}/3ds-max/au_xv8-05_enforcer_crisis_battlesuit"><img src="..{{ site.baseurl }}/uploads/thumbnails/tau_xv8-05_enforcer_crisis_battlesuit_folder.jpg" class="hover-shadow" /></a>
+    <a href="..{{ site.baseurl }}/3ds-max/tau_xv8-05_enforcer_crisis_battlesuit"><img src="..{{ site.baseurl }}/uploads/thumbnails/tau_xv8-05_enforcer_crisis_battlesuit_folder.jpg" class="hover-shadow" /></a>
   </div>
   <div class="column">
     <a href="..{{ site.baseurl }}/3ds-max/virtual_room"><img src="..{{ site.baseurl }}/uploads/thumbnails/virtual_room_folder.jpg" class="hover-shadow" /></a>
