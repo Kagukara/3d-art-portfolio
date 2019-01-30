@@ -1,7 +1,7 @@
 <!-- Images used to open the lightbox -->
 <div class="row">{% for image in page.images %}{% assign total = forloop.index %}
   <div class="column">
-    <img src="../uploads/thumbnails/{{ image | replace: ".png", ".jpg"}} " onclick="openModal();currentSlide({{ forloop.index }})" class="hover-shadow">
+    <img src="..{{ site.baseurl }}/uploads/thumbnails/{{ image | replace: ".png", ".jpg"}} " onclick="openModal();currentSlide({{ forloop.index }})" class="hover-shadow">
   </div>{% endfor %}
 </div>
 
@@ -11,7 +11,7 @@
   <div class="modal-content">{% for image in page.images %}
     <div class="mySlides">
       <div class="numbertext">{{ forloop.index }} / {{ total }}</div>
-      <img src="../uploads/{{ image }}" style="width:100%">
+      <img src="..{{ site.baseurl }}/uploads/{{ image }}" style="width:100%">
     </div>{% endfor %}
 
     <!-- Next/previous controls -->
@@ -25,7 +25,7 @@
 
     <!-- Thumbnail image controls -->{% for image in page.images %}
     <!--div class="column">
-      <img class="demo" src="../uploads/{{ image }}" onclick="currentSlide({{ forloop.index }})" alt="">
+      <img class="demo" src="..{{ site.baseurl }}/uploads/{{ image }}" onclick="currentSlide({{ forloop.index }})" alt="">
     </div-->{% endfor %}
 
   </div>
