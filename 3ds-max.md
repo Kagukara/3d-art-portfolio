@@ -17,7 +17,7 @@ images:
     <a href="..{{ site.baseurl }}/3ds-max/house"><img src="..{{ site.baseurl }}/uploads/thumbnails/house_folder.jpg" class="hover-shadow" /></a>
   </div>
   <div class="column">
-    <a href="..{{ site.baseurl }}/3ds-max/lake_assets"><img src="..{{ site.baseurl }}/uploads/thumbnails/lake_assets_folder.jpg" class="hover-shadow" /></a>
+    <a href="..{{ site.baseurl }}/3ds-max/lake_assets"><img src="../uploads/thumbnails/lake_assets_folder.jpg" class="hover-shadow" /></a>
   </div>
   <div class="column">
     <a href="..{{ site.baseurl }}/3ds-max/metascan"><img src="..{{ site.baseurl }}/uploads/thumbnails/metascan_folder.jpg" class="hover-shadow" /></a>
