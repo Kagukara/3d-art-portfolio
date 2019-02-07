@@ -17,7 +17,7 @@ title: Richard Noble
 email: richard@designerwebhosting.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Something about Richard.
-baseurl: "/3d-art-portfolio" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog 3d-art-portfolio
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  Kagukara
