@@ -23,7 +23,7 @@ images:
     <a href="../3ds-max/metascan"><img src="../uploads/thumbnails/metascan_folder.jpg" class="hover-shadow" /></a>
   </div>
   <div class="column">
-    <a href="../3ds-max/office_chair"><img src="..}/uploads/thumbnails/office_chair_folder.jpg" class="hover-shadow" /></a>
+    <a href="../3ds-max/office_chair"><img src="../uploads/thumbnails/office_chair_folder.jpg" class="hover-shadow" /></a>
   </div>
   <div class="column">
     <a href="../3ds-max/roof_top_scene"><img src="../uploads/thumbnails/roof_top_scene_folder.jpg" class="hover-shadow" /></a>
